@@ -1,0 +1,11 @@
+﻿{
+  "name": "101418340_comp3123_labtest1",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "q1": "node Q1/demo.js",
+    "q2": "node Q2/callbacks.js",
+    "add-logs": "node Q3/add.js",
+    "remove-logs": "node Q3/remove.js"
+  }
+}
